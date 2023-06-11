@@ -1,4 +1,4 @@
-# DeleteYourLinux
+# DeleteYourLinux~~一个没卵用/沙雕的的项目~~
 
 [Readme_EN](/Readme-EN.md)
 
