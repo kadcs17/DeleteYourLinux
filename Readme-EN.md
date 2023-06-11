@@ -1,5 +1,7 @@
 # DeleteYourLinux
 
+[简体中文](/Readme.md)
+
 ## One command delete your linux.
 
 Ways:
