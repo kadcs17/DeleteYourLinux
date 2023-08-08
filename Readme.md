@@ -4,7 +4,7 @@
 
 ## 开始操作 ~~(迷惑行为)~~
 
-~~先准备一只可怜的好机♂油♂，搞♂到他♂的企鹅(Linux)~~
+~~先捕捉一只你的好机♂油♂，搞♂到他♂的企鹅(Linux)~~
 
 
 第一步，打开 [这里](https://github.com/kadcs17/DeleteYourLinux/)(本仓库) 下载`delyourlinux.sh`至任一目录
