@@ -1,8 +1,9 @@
 # DeleteYourLinux
+## A useful project
 
 [简体中文](/Readme.md)
 
-## One command to delete your linux.
+## One special way to delete your linux.
 
 
 First,download `delyourlinux.sh` to any folder.
