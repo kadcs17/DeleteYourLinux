@@ -4,14 +4,14 @@
 
 ## 开始操作
 
-~~先捕捉一只你的好机♂油♂，搞♂到他♂的企鹅(Linux)~~
+#### ~~先捕捉一只你的好机♂油♂，搞♂到他♂的企鹅(Linux)~~
 
 
-第一步，打开 [这里](https://github.com/kadcs17/DeleteYourLinux/)(本仓库) 下载`delyourlinux.sh`至任一目录
+### 第一步，打开 [这里](https://github.com/kadcs17/DeleteYourLinux/)(本仓库) 下载`delyourlinux.sh`至任一目录
 
-第二步，在此目录下打开`Terminal`
+### 第二步，在此目录下打开`Terminal`
 
-最后，执行命令 `sh delyourlinux.sh`
+### 最后，执行命令 `sh delyourlinux.sh`
 
 ## 享受激动人心的时刻吧！~~相信这会增♂进♂你们的感♂情♂(来自先辈的肯定.gif)~~
 
