@@ -1,5 +1,5 @@
 # DeleteYourLinux
-## A useful project
+## A very useful project
 
 [简体中文](/Readme.md)
 
@@ -13,4 +13,4 @@ Second,open `Terminal` at the folder.
 Last,execute command `sudo sh delyourlinux.sh`
 
 # Enjoy it!
-## Don't forget to use `root`!
+## Warning: You should know the `root` password or login as `root` before you execute command!
