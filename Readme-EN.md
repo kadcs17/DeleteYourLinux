@@ -12,5 +12,5 @@
 
 ### Last,execute command `sudo sh delyourlinux.sh`
 
-# Enjoy it!
-## Warning: You should know the `root` password or login as `root` before you execute command!
+## Enjoy it!
+# Warning: You should know the `root` password or login as `root` before you execute command!
